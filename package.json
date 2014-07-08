@@ -1,0 +1,24 @@
+{
+  "name": "tdir",
+  "version": "0.0.1",
+  "description": "Create or Restore Directory Templates",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.11"
+  },
+  "engineStrict": true,
+  "bin": {
+    "tdir": "bin/tdir.sh"
+  },
+  "author": "Florian Albertz",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^3.0.6",
+    "commander": "^2.2.0",
+    "lodash": "^2.4.1",
+    "thunkify": "^2.1.2"
+  },
+  "jshintConfig": {
+    "esnext": true
+  }
+}
