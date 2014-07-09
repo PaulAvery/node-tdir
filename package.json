@@ -1,6 +1,6 @@
 {
   "name": "tdir",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create or Restore Directory Templates",
   "main": "index.js",
   "engines": {
@@ -10,6 +10,14 @@
   "bin": {
     "tdir": "bin/tdir.sh"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/node-tdir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PaulAvery/node-tdir/issues"
+  },
+  "homepage": "https://github.com/PaulAvery/node-tdir",
   "author": "Florian Albertz",
   "license": "MIT",
   "dependencies": {
