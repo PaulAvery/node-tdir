@@ -1,6 +1,6 @@
 {
   "name": "tdir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create or Restore Directory Templates",
   "main": "index.js",
   "engines": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/PaulAvery/node-tdir.git"
   },
   "author": "Florian Albertz",
-  "license": "BSD-3",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "co": "^3.0.6",
     "commander": "^2.2.0",
