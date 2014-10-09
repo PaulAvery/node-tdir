@@ -1,5 +1,7 @@
 Directory Templating
 ====================
+[![Build Status](https://img.shields.io/travis/PaulAvery/node-tdir.svg?style=flat)](https://travis-ci.org/PaulAvery/node-tdir)
+
 This module allows you to convert a directory structure into a template. The template is a simple JavaScript object, which can then be used to recreate the original folder.
 In addition, files may be flagged as templates, making this module ideal for bootstrapping things.
 
